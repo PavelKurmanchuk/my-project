@@ -1,1 +1,3 @@
 fourth file
+
+Fourth file was modified in the feature branch
